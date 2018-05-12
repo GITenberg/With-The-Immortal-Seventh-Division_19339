@@ -1,0 +1,26 @@
+_repo: With-The-Immortal-Seventh-Division_19339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kennedy, Edmund John
+    deathdate: 1915
+    gutenberg_agent_id: '8602'
+    url: http://www.gutenberg.org/2009/agents/8602
+description: ''
+gutenberg_issued: '2006-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19339'
+  lccn: '16015601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcc 'D501'
+title: With The Immortal Seventh Division
+url: http://www.gutenberg.org/ebooks/19339
